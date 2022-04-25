@@ -1,0 +1,10 @@
+{    
+    "mod_id": "chiselsandbits",
+    "mod_name": "Chisels & bits",
+	"mod_dir": "/Chisels_&_Bits/",
+	"mod_version": "1.2.82",
+    "mc_version": "1.18.1",
+    "mod_authors": ["OrionOnline","LDTTeam","AlgorithmX2"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits/",
+    "description": "A mod about Sculpting, Decorating and Aesthetics. Ported to 1.16.x by the LDTTeam."
+}

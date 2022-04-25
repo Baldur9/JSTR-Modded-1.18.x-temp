@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "minecraft:block/custom_template_door_top",
+    "textures": {
+        "bottom": "integrateddynamics:block/menril_door_bottom",
+        "top": "integrateddynamics:block/menril_door_top",
+        "edge": "integrateddynamics:block/menril_door_edge"
+    }
+}

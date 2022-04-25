@@ -1,0 +1,12 @@
+{    
+    "mod_id": "buildinggadgets",
+    "mod_name": "Building Gadgets",
+	"mod_dir": "/Building_Gadgets/",
+	"mod_version": "3.9.0",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Direwolf20"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
+    "description": "Adds some gadgets to help you build!
+    Building and Exchanging Gadget offer basic building & exchanging functionality for easily creating walls/columns etc.
+    The Destruction Gadget will help you clear out large Areas for your complex builds which you can Copy and Paste at will with the Copy-Paste Gadget!"
+}

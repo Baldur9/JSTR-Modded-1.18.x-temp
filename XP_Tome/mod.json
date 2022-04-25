@@ -1,0 +1,10 @@
+{    
+    "mod_id": "xpbook",
+    "mod_name": "XP Tome",
+	"mod_dir": "/XP_Tome/",
+	"mod_version": "2.1.3",
+    "mc_version": "1.18.1",
+    "mod_authors": ["bl4ckscor3"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/xp-tome",
+    "description": "Adds a book that can store a configurable amount of XP."
+}

@@ -1,0 +1,10 @@
+{    
+    "mod_id": "craftingcraft",
+    "mod_name": "CraftingCraft",
+	"mod_dir": "/CraftingCraft/",
+	"mod_version": "11.0.1",
+    "mc_version": "1.18.1",
+    "mod_authors": ["BlayTheNinth"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/craftingcraft",
+    "description": "Adds an inventory crafting table and a normal portable one."
+}

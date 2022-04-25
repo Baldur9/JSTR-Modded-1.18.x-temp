@@ -1,0 +1,10 @@
+{    
+    "mod_id": "structurize",
+    "mod_name": "Structurize",
+	"mod_dir": "/Structurize/",
+	"mod_version": "1.0.346-ALPHA",
+    "mc_version": "1.18.1",
+    "mod_authors": ["LDT Team"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/structurize",
+    "description": "An astonishing way to copy & paste structures!"
+}

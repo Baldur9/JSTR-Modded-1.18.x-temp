@@ -1,0 +1,10 @@
+{    
+    "mod_id": "rftoolsutility",
+    "mod_name": "RFToolsUtility",
+	"mod_dir": "/RFToolsUtility/",
+	"mod_version": "4.0.10",
+    "mc_version": "1.18.1",
+    "mod_authors": ["McJty"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-utility",
+    "description": "Generic RFTools utilities"
+}

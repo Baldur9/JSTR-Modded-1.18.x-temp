@@ -1,0 +1,10 @@
+{    
+    "mod_id": "rftoolsbase",
+    "mod_name": "RFToolsBase",
+	"mod_dir": "/RFToolsBase/",
+	"mod_version": "3.0.6",
+    "mc_version": "1.18.1",
+    "mod_authors": ["McJty"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-base",
+    "description": "The base class for all RFTools tech mods (and XNet/Deep Resonance)"
+}

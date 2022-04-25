@@ -1,0 +1,10 @@
+{    
+    "mod_id": "",
+    "mod_name": "Quark",
+	"mod_dir": "/Quark/",
+	"mod_version": "3.1-336",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Vazkii","WireSegal","MCVinnyq","Sully"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/quark",
+    "description": "Small things, improving Minecraft bit by bit."
+}

@@ -1,0 +1,10 @@
+{    
+    "mod_id": "chipped",
+    "mod_name": "Chipped",
+	"mod_dir": "/Chipped/",
+	"mod_version": "1.2.1",
+    "mc_version": "1.18.1",
+    "mod_authors": ["grimbo"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "description": ""
+}

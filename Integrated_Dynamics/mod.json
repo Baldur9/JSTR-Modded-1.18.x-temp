@@ -1,0 +1,10 @@
+{    
+    "mod_id": "integrateddynamics",
+    "mod_name": "IntegratedDynamics",
+	"mod_dir": "/Integrated_Dynamics/",
+	"mod_version": "1.10.10",
+    "mc_version": "1.18.1",
+    "mod_authors": ["rubensworks (aka kroeser)"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
+    "description": "Take full and automated control of your appliances."
+}

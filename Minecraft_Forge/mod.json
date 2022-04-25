@@ -1,0 +1,10 @@
+{
+  "mod_id": "Minecraft_Forge",
+  "mod_name": "Minecraft Forge",
+  "mod_dir": "/Minecraft_Forge/",
+  "mod_version": "39.1.1",
+  "mc_version": "1.18.1",
+  "mod_authors": ["FMCP: Searge","ProfMobius","IngisKahn","Fesh0r","ZeuX","R4wk","LexManos","Bspkrs"],
+  "url_website": "http://files.minecraftforge.net/",
+  "description": "Minecraft, decompiled and deobfuscated with MCP technology"
+}

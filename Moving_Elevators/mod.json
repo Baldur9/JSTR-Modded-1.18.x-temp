@@ -1,0 +1,10 @@
+{    
+    "mod_id": "movingelevators",
+    "mod_name": "Moving Elevators",
+	"mod_dir": "/Moving_Elevators/",
+	"mod_version": "1.3.4",
+    "mc_version": "1.18.1",
+    "mod_authors": ["SuperMartijn642"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/moving-elevators",
+    "description": "Moving Elevators allows you to build real moving elevators! These elevator will move you as well as other entities on the platform to multiple floors at the press of a button! The platform can have different sizes and can move at different speeds!"
+}

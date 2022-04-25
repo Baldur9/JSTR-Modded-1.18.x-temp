@@ -1,0 +1,10 @@
+{    
+    "mod_id": "extendedtools",
+    "mod_name": "Extended Tools",
+	"mod_dir": "/Extended_Tools/",
+	"mod_version": "0.3.5-0",
+    "mc_version": "1.18.1",
+    "mod_authors": ["aurilisdev","pyro206"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/extended-tools",
+    "description": ""
+}

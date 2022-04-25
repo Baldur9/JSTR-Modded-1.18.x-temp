@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "particle": "farmingforblockheads:block/fertilized_farmland_healthy_stable_moist",
+	"side": "minecraft:block/farmland_moist_side_7",
+    "end1": "minecraft:block/farmland_end1_7",
+    "end2": "minecraft:block/farmland_end2_7",
+    "dirt": "block/dirt",
+    "top": "farmingforblockheads:block/fertilized_farmland_healthy_stable_moist"
+  }
+}

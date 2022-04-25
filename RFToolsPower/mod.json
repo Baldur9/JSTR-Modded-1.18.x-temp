@@ -1,0 +1,10 @@
+{    
+    "mod_id": "rftoolspower",
+    "mod_name": "RFToolsPower",
+	"mod_dir": "/RFToolsPower/",
+	"mod_version": "4.0.3",
+    "mc_version": "1.18.1",
+    "mod_authors": ["McJty"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-power",
+    "description": "Everything related to power generation"
+}

@@ -1,0 +1,10 @@
+{    
+    "mod_id": "alexsmobs",
+    "mod_name": "Alex's Mobs",
+	"mod_dir": "/Alexs_Mobs/",
+	"mod_version": "1.16.0",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Alexthe668", "Carro1001"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "description": "New, original, engaging, and aesthetic mobs for Minecraft."
+}

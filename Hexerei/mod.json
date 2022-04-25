@@ -1,0 +1,10 @@
+{    
+    "mod_id": "hexerei",
+    "mod_name": "Hexerei",
+	"mod_dir": "/Hexerei/",
+	"mod_version": "0.1.13",
+    "mc_version": "1.18.1",
+    "mod_authors": ["JoeFoxe"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/hexerei",
+    "description": "Magic/Exploration/Storage Mod"
+}

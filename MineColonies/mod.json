@@ -1,0 +1,10 @@
+{    
+    "mod_id": "minecolonies",
+    "mod_name": "MineColonies",
+	"mod_dir": "/MineColonies/",
+	"mod_version": "1.0.463-ALPHA",
+    "mc_version": "1.18.1",
+    "mod_authors": ["LDT Team"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
+    "description": "MineColonies is a colony simulator within Minecraft! There are numerous types of workers, and each worker has its own type of hut, letting you build a busy and vibrant village/town/city/colony. There is no coded limit to the number of NPC's at your disposal, so you can create a small, efficient village dedicated to a particular type of worker or a sprawling metropolis with hundreds of workers. It's entirely up to you!"
+}

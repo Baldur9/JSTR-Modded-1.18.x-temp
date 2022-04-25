@@ -1,0 +1,10 @@
+{    
+    "mod_id": "dimpaintings",
+    "mod_name": "Dimensional Paintings",
+	"mod_dir": "/Dimensional_Paintings/",
+	"mod_version": "1.2",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Mrbysco","ShyNieke"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/dimensional-paintings",
+    "description": "Just jump in :)"
+}

@@ -1,0 +1,10 @@
+{    
+    "mod_id": "verdure",
+    "mod_name": "Verdure",
+	"mod_dir": "/Verdure/",
+	"mod_version": "1.0.4",
+    "mc_version": "1.18.1",
+    "mod_authors": ["SameButDifferent","Drigonis"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/verdure",
+    "description": "A generation mod that overhauls the overworld with a bunch of new blocks!"
+}

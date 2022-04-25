@@ -1,0 +1,10 @@
+{    
+    "mod_id": "rftoolsbuilder",
+    "mod_name": "RFToolsBuilder",
+	"mod_dir": "/RFToolsBuilder/",
+	"mod_version": "4.0.7",
+    "mc_version": "1.18.1",
+    "mod_authors": ["McJty"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-builder",
+    "description": "Everything related to the builder"
+}

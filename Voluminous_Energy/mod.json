@@ -1,0 +1,10 @@
+{    
+    "mod_id": "voluminousenergy",
+    "mod_name": "Voluminous Energy",
+	"mod_dir": "/Voluminous_Energy/",
+	"mod_version": "1.18-0.2.3.1a",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Eelt","MikeTheShadow"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/voluminous-energy",
+    "description": "Voluminous Energy - A Tech mod focused on resource processing and energy... Or processing resources into more energy?!"
+}

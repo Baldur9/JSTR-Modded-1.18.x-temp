@@ -1,0 +1,41 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "variants": {
+    "facing=down": [
+        { "model": "quark:block/blue_corundum_cluster", "x": 180 },
+        { "model": "quark:block/blue_corundum_cluster1", "x": 180 },
+        { "model": "quark:block/blue_corundum_cluster2", "x": 180 },
+        { "model": "quark:block/blue_corundum_cluster3", "x": 180 }
+        ],
+    "facing=east": [
+        { "model": "quark:block/blue_corundum_cluster", "x": 90, "y": 90 },
+        { "model": "quark:block/blue_corundum_cluster1", "x": 90, "y": 90 },
+        { "model": "quark:block/blue_corundum_cluster2", "x": 90, "y": 90 },
+        { "model": "quark:block/blue_corundum_cluster3", "x": 90, "y": 90 }
+        ],
+    "facing=north": [
+        { "model": "quark:block/blue_corundum_cluster", "x": 90 },
+        { "model": "quark:block/blue_corundum_cluster1", "x": 90 },
+        { "model": "quark:block/blue_corundum_cluster2", "x": 90 },
+        { "model": "quark:block/blue_corundum_cluster3", "x": 90 }
+        ],
+    "facing=south": [
+        { "model": "quark:block/blue_corundum_cluster", "x": 90, "y": 180 },
+        { "model": "quark:block/blue_corundum_cluster1", "x": 90, "y": 180 },
+        { "model": "quark:block/blue_corundum_cluster2", "x": 90, "y": 180 },
+        { "model": "quark:block/blue_corundum_cluster3", "x": 90, "y": 180 }
+        ],
+    "facing=up": [ 
+        { "model": "quark:block/blue_corundum_cluster" },
+        { "model": "quark:block/blue_corundum_cluster1" },
+        { "model": "quark:block/blue_corundum_cluster2" },
+        { "model": "quark:block/blue_corundum_cluster3" }
+        ],
+    "facing=west": [
+        { "model": "quark:block/blue_corundum_cluster", "x": 90, "y": 270 },
+        { "model": "quark:block/blue_corundum_cluster1", "x": 90, "y": 270 },
+        { "model": "quark:block/blue_corundum_cluster2", "x": 90, "y": 270 },
+        { "model": "quark:block/blue_corundum_cluster3", "x": 90, "y": 270 }
+        ]
+    }
+}

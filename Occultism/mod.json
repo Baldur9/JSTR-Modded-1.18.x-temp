@@ -1,0 +1,10 @@
+{    
+    "mod_id": "occultism",
+    "mod_name": "Occultism",
+	"mod_dir": "/Occultism/",
+	"mod_version": "1.26.1",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Kli Kli"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/occultism",
+    "description": "A magic mod inspired by the world of Jonathan Stroud's Bartimaeus. With the help of occult rituals players can summon entities from the 'Other Side' to perform magic."
+}

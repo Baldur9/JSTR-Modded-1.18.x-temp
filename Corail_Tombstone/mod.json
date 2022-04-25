@@ -1,0 +1,10 @@
+{    
+    "mod_id": "tombstone",
+    "mod_name": "Corail Tombstone",
+	"mod_dir": "/Corail_Tombstone/",
+	"mod_version": "7.4.1",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Corail31"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+    "description": "Corail Tombstone keeps you from losing your belongings on death, with many features of survivability and dimensional teleportation, in a medieval fantasy atmosphere related to the grave's souls."
+}

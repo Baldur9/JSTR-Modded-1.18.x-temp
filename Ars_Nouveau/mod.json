@@ -1,0 +1,10 @@
+{    
+    "mod_id": "ars_nouveau",
+    "mod_name": "Ars Nouveau",
+	"mod_dir": "/Ars Nouveau/",
+	"mod_version": "2.2.9",
+    "mc_version": "1.18.1",
+    "mod_authors": ["Bailey Hollingsworth"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau",
+    "description": "Craft spells, create powerful baubles, and summon magical creatures!"
+}

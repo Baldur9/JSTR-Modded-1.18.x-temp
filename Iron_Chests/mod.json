@@ -1,0 +1,11 @@
+{    
+    "mod_id": "ironchest",
+    "mod_name": "Iron Chests",
+	"mod_dir": "/Iron_Chests/",
+	"mod_version": "3.0.7",
+    "mc_version": "1.18.1",
+    "mod_authors": ["cpw","alexbegt","progwml6"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/iron-chests",
+    "description": "New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest"
+}

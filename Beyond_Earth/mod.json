@@ -1,0 +1,10 @@
+{    
+    "mod_id": "beyond_earth",
+    "mod_name": "Beyond Earth",
+	"mod_dir": "/Beyond_Earth/",
+	"mod_version": "6.0c",
+    "mc_version": "1.18.1",
+    "mod_authors": ["MrScautHD"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/beyond-earth",
+    "description": "Fly to Other Planets and Beyond!"
+}

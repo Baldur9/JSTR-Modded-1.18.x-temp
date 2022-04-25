@@ -1,0 +1,10 @@
+{    
+    "mod_id": "cosmeticarmorreworked",
+    "mod_name": "CosmeticArmorReworked",
+	"mod_dir": "/Cosmetic_Armor_Reworked/",
+	"mod_version": "v1a",
+    "mc_version": "1.18.1",
+    "mod_authors": ["zlainsama"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked",
+    "description": "This mod allows you to wear two sets of armor, one for display, one for function. You can also hide armor for your skin. For PVP, you can stop the mod from functioning on your client side."
+}

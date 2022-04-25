@@ -1,0 +1,10 @@
+{    
+    "mod_id": "farmingforblockheads",
+    "mod_name": "Farming for Blockheads",
+	"mod_dir": "/Farming_for_Blockheads/",
+	"mod_version": "1-9.0.3",
+    "mc_version": "1.18.1",
+    "mod_authors": ["BlayTheNinth"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads",
+    "description": "Adds a seed market with a search bar and a scrolling grid and more farming utilities."
+}

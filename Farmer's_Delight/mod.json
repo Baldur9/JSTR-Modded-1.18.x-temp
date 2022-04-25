@@ -1,0 +1,10 @@
+{    
+    "mod_id": "farmersdelight",
+    "mod_name": "Farmer's Delight",
+	"mod_dir": "/Farmer's_Delight/",
+	"mod_version": "1.0.3",
+    "mc_version": "1.18.1",
+    "mod_authors": ["vectorwing"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+    "description": "A lightweight farming and cooking expansion for Minecraft!"
+}
